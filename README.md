@@ -8,7 +8,6 @@
 |Sublime|MarkDown用Package紹介|[WebMemo](http://webmem.hatenablog.com/entry/sublime-text-markdown)|
 |GFM|GitHub Flavored Markdown Preview|[Github Preview](http://github-preview.herokuapp.com/)|
 |MarkDown|MarkDownチート|[PacketLife.net](http://packetlife.net/library/cheat-sheets/)|
-|Emmet|Emmet Plugin(Sublime)紹介ブログ|[Emmet](http://dev.classmethod.jp/tool/emmet-sublimetext2-1/)
-[Cheat Sheet](http://docs.emmet.io/cheat-sheet/)
-|IDE|Cloud9 IDE紹介ブログ|[Cloud 9 IDE](http://nelog.jp/rails-on-cloud9)
+|Emmet|Emmet Plugin(Sublime)紹介ブログ|[Emmet](http://dev.classmethod.jp/tool/emmet-sublimetext2-1/),[Cheat Sheet](http://docs.emmet.io/cheat-sheet/)|
+|IDE|Cloud9 IDE紹介ブログ|[Cloud 9 IDE](http://nelog.jp/rails-on-cloud9)|
 
